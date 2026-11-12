@@ -148,3 +148,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+results/
+curves/
+.results-before-sync-20261022/
+plot*.py
+test*.py
+verify*.py
+benchmark*.py
+reproduce_poisson_fig1.py
